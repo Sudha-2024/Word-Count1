@@ -1,4 +1,4 @@
-#word count:
+# word count:
 
 * This HTML document analyzes a text string to find the five most repeated words.
 
